@@ -1,0 +1,2 @@
+javascript:var%20cps="http://novo.periodicos.capes.gov.br/?option=com_pezproxy&controller=auth&view=pezproxyauth&url=";%20var%20page=document.location;%20window.location.replace(cps+page);
+
